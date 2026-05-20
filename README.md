@@ -1,6 +1,6 @@
 # CI/CD Pipeline with GitHub Actions & Docker
 
-![CI/CD Pipeline](https://github.com/nnadinee-1/cicd-pipeline/actions/workflows/cicd.yml/badge.svg)
+[![CI/CD Pipeline](https://github.com/nnadinee-1/cicd-pipeline/actions/workflows/cicd.yml/badge.svg)](https://github.com/nnadinee-1/cicd-pipeline/actions/workflows/cicd.yml)
 
 ## Overview
 Automated CI/CD pipeline that builds and pushes a Dockerized Flask app to Docker Hub on every push to `main`.
